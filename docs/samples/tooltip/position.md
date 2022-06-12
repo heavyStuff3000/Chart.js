@@ -1,6 +1,6 @@
 # Position
 
-This sample shows how to use the tooltip position mode setting.
+This sample shows how to use the tooltip position mode setting. 
 
 ```js chart-editor
 // <block:actions:3>
